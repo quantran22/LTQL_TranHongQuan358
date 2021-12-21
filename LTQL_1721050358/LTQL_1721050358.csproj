@@ -135,6 +135,7 @@
     </Compile>
     <Compile Include="Models\LopHoc358.cs" />
     <Compile Include="Models\LTQLBbContex.cs" />
+    <Compile Include="Models\THqSinhVien358.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
