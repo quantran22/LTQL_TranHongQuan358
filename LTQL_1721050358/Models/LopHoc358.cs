@@ -6,7 +6,7 @@ using System.Web;
 
 namespace LTQL_1721050358.Models
 {
-    public class LopHoc082
+    public class LopHoc358
     {
         [Key]
         [Display(Name = "Mã Lớp")]

@@ -12,7 +12,7 @@ namespace LTQL_1721050358.Models
         {
         }
 
-        public virtual DbSet<DanhGia> DanhGias { get; set; }
+        public virtual DbSet<LopHoc358> LopHoc358s { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
