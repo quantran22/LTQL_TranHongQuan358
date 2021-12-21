@@ -19,5 +19,7 @@ namespace LTQL_1721050358.Models
         public string HoTen { get; set; }
         public int MaLop { get; set; }
         [ForeignKey("MaLop")]
+        public virtual LopHoc358 LopHoc358 { get; set; }
     }
+
 }
